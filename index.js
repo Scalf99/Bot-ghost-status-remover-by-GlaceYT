@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["MADE BY SCALF","GLOBAL BAN SYSTEM FOR FLSRP"];
 
 
 let currentIndex = 0;
